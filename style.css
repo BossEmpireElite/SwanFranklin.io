@@ -1,0 +1,65 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+img{
+  object-position: center;
+  object-fit: cover;
+  border-radius: 10px 10px 10px 10px;
+  
+}
+
+ body {
+ text-align: center;
+ background-color: black;
+  padding: 20px 10px 20px 10px
+  margins: 10px 20px 10px 20px;
+  border: 20px solid: red; 
+  }
+
+ h1 {
+ font-family: cursive;
+ color: gray;
+   font-size: 50px;
+} 
+
+h2 {
+color: white;
+font-family: cursive;
+font-size: 20px; 
+}
+
+
+h5 {
+color: white;
+  font-family: baskerville;
+  font-style: italic;
+  font-size: 12px;,
+  border: solid 50px Color: Red;
+  border-color: red
+  border-radius: 25%; 
+  padding: 10px 50px 10px 50px
+  color; red;
+  }
+
+
+  button {
+    margin: 2px 2px 2px 2px;
+    padding: 10px 5px 10px 5px;
+    border: 50px solid: gold; 
+    color: white;
+    background-color: black;
+    font-style: italics;
+  }
+
+p 
+{
+color: white;
+font-size: 10px;
+font-family: ebrima;
+padding: 50px 5px 50px 5px;
+}
+
+
